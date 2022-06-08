@@ -1,0 +1,12 @@
+.input_wrapper {
+  display: flex;
+  justify-content: center;
+  margin: 10px;
+}
+.input_buttons {
+  display: flex;
+  justify-content: center;
+}
+.input_buttons button {
+  margin: 5px;
+}

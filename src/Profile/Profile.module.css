@@ -1,0 +1,15 @@
+  .button_wrapper {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+  }
+  .check_label {
+    display: block;
+    text-align: end;
+  }
+  form{
+    margin: 10px;
+  }
+  input{
+      margin: 5px;
+  }
